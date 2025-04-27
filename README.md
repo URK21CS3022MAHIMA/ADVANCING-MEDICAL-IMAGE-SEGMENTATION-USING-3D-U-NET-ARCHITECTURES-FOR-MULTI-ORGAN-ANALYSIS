@@ -2,20 +2,10 @@
 Medical image segmentation is a crucial task in modern healthcare, enabling precise identification and analysis of anatomical structures across various imaging modalities like MRI and CT scans.
 # ScanHippoHealth 🧠💊
 
-<div align="center">
-  <img src=""C:\Users\mahit\Downloads\WhatsApp Image 2025-04-28 at 00.44.07_393fddad.jpg"" alt="ScanHippoHealth Logo">
-</div>
 
 
 ScanHippoHealth is a sophisticated MRI segmentation project specifically designed for the segmentation of the Hippocampus. The project utilizes the dataset provided by the [Medical Segmentation Decathlon](http://medicaldecathlon.com/) for Generalizable 3D Semantic Segmentation.
 
-## Overview
-
-The project employs a 3D-Unet architecture for accurate segmentation. The architecture diagram can be found below- 
-
-<div align="center">
-  <img src="Segmentation_Architecture.png" alt="Architecture Diagram">
-</div>
 
 ## Features 🚀
 
