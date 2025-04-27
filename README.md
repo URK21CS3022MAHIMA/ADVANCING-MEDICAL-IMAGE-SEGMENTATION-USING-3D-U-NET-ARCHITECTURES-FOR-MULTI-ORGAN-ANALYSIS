@@ -3,7 +3,7 @@ Medical image segmentation is a crucial task in modern healthcare, enabling prec
 # ScanHippoHealth 🧠💊
 
 <div align="center">
-  <img src="screenshots/logo.png" alt="ScanHippoHealth Logo">
+  <img src=""C:\Users\mahit\Downloads\WhatsApp Image 2025-04-28 at 00.44.07_393fddad.jpg"" alt="ScanHippoHealth Logo">
 </div>
 
 
